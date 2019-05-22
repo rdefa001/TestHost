@@ -8,7 +8,7 @@ section{
 }
 .wave{
     position: relative;
-    background: linear-gradient(90deg, #f0027f, #75489f);
+    background: linear-gradient(90deg,#ccffff, #ffcccc); 
 }
 .wave:before{
     content: '';
